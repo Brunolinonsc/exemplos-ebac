@@ -5,5 +5,10 @@ Primeiro teste de commit sozinho.
 Nesta data de 19/02/2025, estou estudando sobre commits na aula de java na EBAC, estou efetuando testes sozinho, sem o uso do vídeo da aula para que eu possa estar bem treinado para as aulas futuras que viram.
 Em novembro do ano de 2024 iniciei o curo na EBAC, antes de iniciar este curso eu já havia realizado o curso de logica de programação usando o portugol, mas com este curso me sinto muito melhor. 
 Estou muito feliz em estar realizando este curso na EBAC, as aulas são muito boas, principalmente as aulas de Java, o professor sabe muito bem explicar as aulas.
+<<<<<<< HEAD
 Editando online.
 Editando o arquivo local.
+=======
+Editando online
+Quarto commit.
+>>>>>>> 22286b353210e502eaea4d4f24b06bb53ea4f496
